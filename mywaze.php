@@ -1,6 +1,6 @@
 <?php
 /**
-* Plugin Name: My Waze
+* Plugin Name: MyWaze - Waze Navigation Button for Mobile Devices
 * Plugin URI: http://danielpataki.com
 * Description: Add Waze navigation button to your mobile Wordpress site.
 * Version: 1.0.0
@@ -41,7 +41,7 @@ function my_waze_add_my_stylesheet() {
  */
 add_action('admin_menu', 'my_waze_admin_page');
 function my_waze_admin_page(){
-    add_menu_page('Waze Button Settings', 'Waze Button', 'administrator', 'my_waze-settings', 'my_waze_admin_page_callback');
+    add_menu_page('MyWaze Settings', 'MyWaze Settings', 'administrator', 'my_waze-settings', 'my_waze_admin_page_callback');
 }
 
 /*
