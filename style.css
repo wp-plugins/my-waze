@@ -1,0 +1,9 @@
+.my_waze {
+  text-indent: -9999px;
+  background: url('/wordpress-blog/wp-content/plugins/mywaze/img/my_waze_bg.png');
+  width: 60px;
+  height: 60px;
+  display: block;
+  background-repeat: no-repeat;
+  clear: both;
+}
