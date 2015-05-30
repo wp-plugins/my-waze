@@ -28,4 +28,3 @@ Add Waze navigation button to your mobile Wordpress site.
 
 
 == Changelog ==
-
