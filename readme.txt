@@ -16,7 +16,7 @@ Add Waze navigation button to your mobile Wordpress site.
 == Installation ==
 
 
-1. Upload `my_waze` folder to the `/wp-content/plugins/` directory.
+1. Upload `my-waze` folder to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. Go to MyWaze Settings section on the wordpress admin panel, enter Longitude & Latitude and press save.
 4. Place [my_waze] shortcode wherever you want the button to appear your page.
